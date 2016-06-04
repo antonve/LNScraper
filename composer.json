@@ -1,0 +1,13 @@
+{
+    "name": "antonve/lnscraper",
+    "description": "Scrape light novel release dates",
+    "require": {
+        "doctrine/dbal": "2.5.2",
+        "sunra/php-simple-html-dom-parser": "v1.5.0"
+    },
+    "authors": [
+        {
+            "name": "antonve"
+        }
+    ]
+}
